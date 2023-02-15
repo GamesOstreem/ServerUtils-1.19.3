@@ -16,6 +16,7 @@ gradlew.bat
 *.iml
 *.ipr
 *.iws
+.gitignore
 
 # vscode
 
